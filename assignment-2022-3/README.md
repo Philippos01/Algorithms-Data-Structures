@@ -3,7 +3,8 @@
 ## Introduction
 
 In this project we are trying to detect cycles in sequence of numbers. This implementation is very useful in various scientific subjects like cryptography. For example, in Diffie-Hellman method for key exhanging the security is based in the problem of the discrete logarithm. This problem is about finding the variable x in functions of the form $f(x)=𝑔^x mod p$ which are periodic functions and the only possible way to find this number is by examining every number of the period. So this algorithm implementation is of a high importance since it can help examine and find secure pairs of numbers that have very large period and cannot be cracked with brute-force method.<br>
-The algorithm that we use is an optimal variation of the Robert W. Floyd algorithm that examines only b numbers in a $g*b$ distance.
+The algorithm that we use is an optimal variation of the Robert W. Floyd algorithm that examines only b numbers in a $g*b$ distance.<br><br>
+The analytical implementation of this algorithm is described [here](https://github.com/Philippos01/Algorithms-Data-Structures/blob/main/assignment-2022-3/assignment-2022-3.pdf)
 
 ## Run the program
 
