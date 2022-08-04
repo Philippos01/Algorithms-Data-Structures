@@ -5,9 +5,9 @@
 In this project we are trying to effectively compress a list of non-decreasing integers by using Elias-Fano encoding. This type of compression uses a sussinct data-structure which means that the encoding space requirement is very close to the theoretical lower bound.<br><br>
 The analytical implementation of this algorithm is described [here](https://github.com/Philippos01/Algorithms-Data-Structures/blob/main/assignment-2022-1/assignment-2022-1.pdf)
 
-## Run the programm
+## Run the program
 
-You can run the program by the following command
+You can run the program by the following command:
 ```
 python elias_fano.py file
 ```
