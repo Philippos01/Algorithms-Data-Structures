@@ -16,7 +16,7 @@ The meaning of each of the main parameters is:
 * g-> a possitive integer
 * table_size-> the max_size that is given to the algorithm
 
-For the analytical explanation of the parameter ```t``` take a look [here](https://github.com/Philippos01/Algorithms-Data-Structures/blob/main/assignment-2022-2/assignment-2022-3.pdf) in page 9.
+For the analytical explanation of the parameter ```t``` take a look [here](https://github.com/Philippos01/Algorithms-Data-Structures/blob/main/assignment-2022-2/assignment-2022-3.pdf) in page 6.
 
 ## Output
 
