@@ -10,7 +10,7 @@ Needleman–Wunsch algorithm but in a more space-efficient way by using the divi
 
 You can run the program by the following command:
 ```
-hirschberg.py [-t] [-f] [-l] gap match differ a b
+python hirschberg.py [-t] [-f] [-l] gap match differ a b
 ```
 The meaning of each of the main parameters is:
 * gap -> it is the ```g``` parameter that is substracted from the alignment score when we remove an element.
