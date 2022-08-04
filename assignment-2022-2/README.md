@@ -3,7 +3,7 @@
 ## Introduction
 
 In this project we are trying to align string sequences optimally by using two different techniques. The first technique is an algorithm produced by Needleman–Wunsch
-for the purpose of aligning protein and nucleotide sequences in bioinformatics. This algorithm gives a score to each possible alignment and then it compares it chooses allignment or the alignments with the highest score. The second technique that is used os the Hirschberg's algorithm. This algorithm produces the same results as the
+for the purpose of aligning protein and nucleotide sequences in bioinformatics. This algorithm gives a score to each possible alignment and then it compares it chooses allignment or the alignments with the highest score. The second technique that is used is the Hirschberg's algorithm. This algorithm produces the same results as the
 Needleman–Wunsch algorithm but in a more space-efficient way by using the divide and conquer method. Specifically it uses recursion for both 2 alignments until each alignment is over or both alignments have length 1. 
 
 ## Run the program
